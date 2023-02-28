@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jeongmin2023_portfolio/static/css/main.135196c2.css",
+    "main.css": "/jeongmin2023_portfolio/static/css/main.3d9ad0b5.css",
     "main.js": "/jeongmin2023_portfolio/static/js/main.438bebc0.js",
     "static/media/project03.jpg": "/jeongmin2023_portfolio/static/media/project03.e126dacf9e50cfaea6ef.jpg",
     "static/media/detail03.jpg": "/jeongmin2023_portfolio/static/media/detail03.9d43c3349a9ec448ca3b.jpg",
@@ -46,11 +46,11 @@
     "static/media/nav_icon02.svg": "/jeongmin2023_portfolio/static/media/nav_icon02.a5811a8f586f637fbb9b5822b156633e.svg",
     "static/media/sec02_text04.svg": "/jeongmin2023_portfolio/static/media/sec02_text04.791f7279d711e965d93e6f1e4e84c754.svg",
     "static/media/sec02_text05.svg": "/jeongmin2023_portfolio/static/media/sec02_text05.85d2cda5ef7fd3045510804bb266095b.svg",
-    "main.135196c2.css.map": "/jeongmin2023_portfolio/static/css/main.135196c2.css.map",
+    "main.3d9ad0b5.css.map": "/jeongmin2023_portfolio/static/css/main.3d9ad0b5.css.map",
     "main.438bebc0.js.map": "/jeongmin2023_portfolio/static/js/main.438bebc0.js.map"
   },
   "entrypoints": [
-    "static/css/main.135196c2.css",
+    "static/css/main.3d9ad0b5.css",
     "static/js/main.438bebc0.js"
   ]
 }
