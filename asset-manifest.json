@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jeongmin2023_portfolio/static/css/main.3d9ad0b5.css",
-    "main.js": "/jeongmin2023_portfolio/static/js/main.438bebc0.js",
+    "main.js": "/jeongmin2023_portfolio/static/js/main.177e2f0d.js",
     "static/media/project03.jpg": "/jeongmin2023_portfolio/static/media/project03.e126dacf9e50cfaea6ef.jpg",
     "static/media/detail03.jpg": "/jeongmin2023_portfolio/static/media/detail03.9d43c3349a9ec448ca3b.jpg",
     "static/media/detail04.jpg": "/jeongmin2023_portfolio/static/media/detail04.e6350a9a915873756c55.jpg",
@@ -23,7 +23,9 @@
     "static/media/sec02_img.jpg": "/jeongmin2023_portfolio/static/media/sec02_img.5a48c5e10efc747bff29.jpg",
     "static/media/sec4_sumnail02.jpg": "/jeongmin2023_portfolio/static/media/sec4_sumnail02.5f15803e336fb5157791.jpg",
     "static/media/sec4_sumnail03.jpg": "/jeongmin2023_portfolio/static/media/sec4_sumnail03.8c2e46ac9e368a879a96.jpg",
+    "static/media/sec02_text04.png": "/jeongmin2023_portfolio/static/media/sec02_text04.192944ca83c26f5e47a0.png",
     "static/media/sec4_sumnail01.jpg": "/jeongmin2023_portfolio/static/media/sec4_sumnail01.f4f5405027f8ce1b6063.jpg",
+    "static/media/sec02_text05.png": "/jeongmin2023_portfolio/static/media/sec02_text05.f59b1c36f12535a53271.png",
     "static/media/header_logo_a.svg": "/jeongmin2023_portfolio/static/media/header_logo_a.55231ede9292a32b142d8f87cfd3ba66.svg",
     "static/media/header_logo.svg": "/jeongmin2023_portfolio/static/media/header_logo.a2e47fec64d5a4b9c71a0ac6be44fe1c.svg",
     "static/media/footer_logo.svg": "/jeongmin2023_portfolio/static/media/footer_logo.99f411cd05dfcbe1de3a592f96756226.svg",
@@ -37,20 +39,15 @@
     "static/media/mark01.svg": "/jeongmin2023_portfolio/static/media/mark01.8c6d51a97221f7a17ead5d5491784052.svg",
     "static/media/mark02.svg": "/jeongmin2023_portfolio/static/media/mark02.3abcb1c76e0e7148ab242169459145cd.svg",
     "static/media/mark03.svg": "/jeongmin2023_portfolio/static/media/mark03.1e3467ac447800a85f8502ee5ced9d1f.svg",
-    "static/media/sec02_text01.svg": "/jeongmin2023_portfolio/static/media/sec02_text01.66766fc81fb8c4d4e959b1d70ff1fb07.svg",
-    "static/media/sec02_text02.svg": "/jeongmin2023_portfolio/static/media/sec02_text02.fd53e5cdbaad56a8b469faad0f52a970.svg",
-    "static/media/sec02_text03.svg": "/jeongmin2023_portfolio/static/media/sec02_text03.16e945e93269c970f5718d9fa51aeb2d.svg",
     "static/media/nav_icon01_a.svg": "/jeongmin2023_portfolio/static/media/nav_icon01_a.8feb2a3ecbc09d457a7eee87e6d996d3.svg",
     "static/media/nav_icon01.svg": "/jeongmin2023_portfolio/static/media/nav_icon01.ba32fb42490cea3c38cb961e0b127595.svg",
     "static/media/nav_icon02_a.svg": "/jeongmin2023_portfolio/static/media/nav_icon02_a.857af5785cd07fc92eb66c3b4a4b70d7.svg",
     "static/media/nav_icon02.svg": "/jeongmin2023_portfolio/static/media/nav_icon02.a5811a8f586f637fbb9b5822b156633e.svg",
-    "static/media/sec02_text04.svg": "/jeongmin2023_portfolio/static/media/sec02_text04.791f7279d711e965d93e6f1e4e84c754.svg",
-    "static/media/sec02_text05.svg": "/jeongmin2023_portfolio/static/media/sec02_text05.85d2cda5ef7fd3045510804bb266095b.svg",
     "main.3d9ad0b5.css.map": "/jeongmin2023_portfolio/static/css/main.3d9ad0b5.css.map",
-    "main.438bebc0.js.map": "/jeongmin2023_portfolio/static/js/main.438bebc0.js.map"
+    "main.177e2f0d.js.map": "/jeongmin2023_portfolio/static/js/main.177e2f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9ad0b5.css",
-    "static/js/main.438bebc0.js"
+    "static/js/main.177e2f0d.js"
   ]
 }
